@@ -15,7 +15,7 @@ DEFAULT_PACKAGES += \
 	autocore cpufreq luci uboot-envtools \
 	kmod-phy-qca83xx \
 	kmod-gpio-button-hotplug kmod-leds-gpio \
-	kmod-qca-nss-dp kmod-qca-ssdk qca-ssdk-shell kmod-nss-ifb \
+	kmod-qca-nss-dp kmod-qca-ssdk kmod-nss-ifb \
 	kmod-qca-nss-drv kmod-qca-nss-ecm \
 	kmod-qca-nss-drv-bridge-mgr \
 	kmod-qca-nss-drv-eogremgr \
